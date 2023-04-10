@@ -140,6 +140,8 @@ J-4)자신의 매니저보다 먼저 고용된 사원들의 LAST_NAME 및 고용
 
 J-5) 사원정보(EMPLOYEE_ID,LAST_NAME, MANAGER_ID)와 사원의 직속 상관정보(EMPLOYEE_ID,LAST_NAME) 조회하시오.
 
+* 테이블 생성
+![image](https://user-images.githubusercontent.com/114748816/230804170-22e0d673-be6e-4bd2-9689-a11b28b5ff00.png)
 
 
 
